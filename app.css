@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Mrs+Saint+Delafield&family=Roboto:wght@300&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&family=Open+Sans:wght@300;400;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:wght@300&display=swap');
+
 :root {
     --color-white: #ffffff;
     --color-black: #000000;
@@ -49,11 +53,11 @@ nav {
 }
 
 h1 {
-    font-family: 'Lobster Two', cursive;
+    font-family: 'Playfair Display', serif;
     font-size: 4rem;
-    font-weight: 400;
+    font-weight: 700;
     font-style: italic;
-    margin-right: 120px;
+    margin-right: 140px;
 }
 
 .banner-text p {
@@ -75,20 +79,18 @@ h1 {
 
 .intro-texts span {
     font-size: 4rem;
-    font-family: 'Lobster Two', cursive;
+    font-family: 'Playfair Display', serif;
     font-weight: 700;
     font-style: italic;
 }
 
 .intro-texts h3 {
     width: 72%;
-    font-family: 'Lobster Two', cursive;
-    font-weight: 400;
-    font-size: 1.8rem;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 1.6rem;
     font-style: italic;
     line-height: 1.6;
-    letter-spacing: 1px;
-    word-spacing: 2px;
 }
 
 .intro-para {
@@ -114,10 +116,10 @@ h1 {
 }
 
 .info h2 {
-    font-family: 'Lobster Two', cursive;
+    font-family: 'Playfair Display', serif;
     font-size: 3.7rem;
     margin: 2rem 0;
-    font-weight: 400;
+    font-weight: 700;
     font-style: italic;
 }
 
@@ -189,8 +191,8 @@ aside img {
 
 .clothing h3 {
     margin: 30px 0;
-    font-size: 3rem;
-    font-family: 'Lobster Two', cursive;
+    font-size: 3.7rem;
+    font-family: 'Playfair Display', serif;
     font-weight: 700;
     font-style: italic;
 }
@@ -237,7 +239,7 @@ aside img {
     color: var(--color-black);
     font-size: 2rem;
     font-weight: 700;
-    font-family: 'Lobster Two', cursive;
+    font-family: 'Open Sans', sans-serif;
     margin-left: 2rem;
 }
 
@@ -290,10 +292,10 @@ aside img {
 }
 
 .subscribe-info h2 {
-    font-size: 3rem;
+    font-size: 3.7rem;
     color: var(--color-black);
-    font-family: 'Lobster Two', cursive;
-    font-weight: 400;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
     text-align: center;
     margin: 2rem 0 3.5rem 0;
     font-style: italic;
