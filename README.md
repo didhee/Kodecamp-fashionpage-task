@@ -37,4 +37,3 @@ Contributions, collaborations and feature requests are welcome. ❤😉
 ## ACKNOWLEDGEMENT
 
 - A big kudos to anyone whose codes was used to achieve this.
-- To [@kodecamp](https://github.com/kodecamp), thank you for the push so far.
