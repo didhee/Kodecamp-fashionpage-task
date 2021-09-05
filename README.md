@@ -25,6 +25,7 @@ This is a simple fashion web page clone.
 
 Onoriode Dafetta
 - Github: [@didhee](https://github.com/didhee)
+- Instagram: [@the_didhee](https://www.instagram.com/the_didhee)
 
 ---
 
